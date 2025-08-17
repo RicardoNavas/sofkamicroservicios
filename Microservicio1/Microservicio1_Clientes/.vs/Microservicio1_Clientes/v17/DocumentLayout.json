@@ -1,0 +1,546 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|c:\\users\\dell\\onedrive\\escritorio\\sofka\\microservicio1\\microservicio1_clientes\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|c:\\users\\dell\\onedrive\\escritorio\\sofka\\microservicio1\\microservicio1_clientes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|c:\\users\\dell\\onedrive\\escritorio\\sofka\\microservicio1\\microservicio1_clientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|c:\\users\\dell\\onedrive\\escritorio\\sofka\\microservicio1\\microservicio1_clientes\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|c:\\users\\dell\\onedrive\\escritorio\\sofka\\microservicio1\\microservicio1_clientes\\microservicio1_clientes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|solutionrelative:microservicio1_clientes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|c:\\users\\dell\\onedrive\\escritorio\\sofka\\microservicio1\\microservicio1_clientes\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|solutionrelative:repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|c:\\users\\dell\\onedrive\\escritorio\\sofka\\microservicio1\\microservicio1_clientes\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|solutionrelative:repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|c:\\users\\dell\\onedrive\\escritorio\\sofka\\microservicio1\\microservicio1_clientes\\models\\basedatoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|solutionrelative:models\\basedatoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|c:\\users\\dell\\onedrive\\escritorio\\sofka\\microservicio1\\microservicio1_clientes\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|solutionrelative:dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio2_Movimientos\\RepositoriesM2\\CuentaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\BaseDatosContextM2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|c:\\users\\dell\\onedrive\\escritorio\\sofka\\microservicio1\\microservicio1_clientes\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|c:\\users\\dell\\onedrive\\escritorio\\sofka\\microservicio1\\microservicio1_clientes\\models\\cuentum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|solutionrelative:models\\cuentum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|c:\\users\\dell\\onedrive\\escritorio\\sofka\\microservicio1\\microservicio1_clientes\\models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D083731E-8721-478C-80CC-9337DB62DABA}|Microservicio1_Clientes.csproj|solutionrelative:models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\Models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\CuentaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\Microservicio2_Movimientos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\DTO2\\CuentaDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\ICuentaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ControllersM2\\CuentasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\MovimientoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\Servicios\\ClienteService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ControllersM2\\MovimientosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\DTO2\\ClienteDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\DTO2\\MovimientoDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\IMovimientoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio2_Movimientos\\RepositoriesM2\\ICuentaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio2_Movimientos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microservicio1_Clientes.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Microservicio1_Clientes.csproj",
+              "RelativeDocumentMoniker": "Microservicio1_Clientes.csproj",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Microservicio1_Clientes.csproj",
+              "RelativeToolTip": "Microservicio1_Clientes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-14T22:34:28.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T23:19:03.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:43:49.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T20:47:00.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAGQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T23:37:39.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "Repositories\\ClienteRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAmwDgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T00:54:19.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Repositories\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Repositories\\IClienteRepository.cs",
+              "RelativeToolTip": "Repositories\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T00:49:12.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseDatosContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Models\\BaseDatosContext.cs",
+              "RelativeDocumentMoniker": "Models\\BaseDatosContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Models\\BaseDatosContext.cs",
+              "RelativeToolTip": "Models\\BaseDatosContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:43:06.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\DTO\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\DTO\\ClienteDTO.cs",
+              "RelativeToolTip": "DTO\\ClienteDTO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T01:38:14.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CuentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio2_Movimientos\\RepositoriesM2\\CuentaRepository.cs",
+              "RelativeDocumentMoniker": "..\\Microservicio2_Movimientos\\RepositoriesM2\\CuentaRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio2_Movimientos\\RepositoriesM2\\CuentaRepository.cs",
+              "RelativeToolTip": "..\\Microservicio2_Movimientos\\RepositoriesM2\\CuentaRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:51:28.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseDatosContextM2.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\BaseDatosContextM2.cs",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\BaseDatosContextM2.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\BaseDatosContextM2.cs",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\BaseDatosContextM2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:12:35.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio2_Movimientos\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Microservicio2_Movimientos\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio2_Movimientos\\appsettings.json",
+              "RelativeToolTip": "..\\Microservicio2_Movimientos\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T12:18:24.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICuentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio2_Movimientos\\RepositoriesM2\\ICuentaRepository.cs",
+              "RelativeDocumentMoniker": "..\\Microservicio2_Movimientos\\RepositoriesM2\\ICuentaRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio2_Movimientos\\RepositoriesM2\\ICuentaRepository.cs",
+              "RelativeToolTip": "..\\Microservicio2_Movimientos\\RepositoriesM2\\ICuentaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:51:45.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Cuenta.cs",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Cuenta.cs",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Cuenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:12:44.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CuentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\CuentaRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\CuentaRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\CuentaRepository.cs",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\CuentaRepository.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAADoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:28:38.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Movimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Movimiento.cs",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Movimiento.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Movimiento.cs",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Movimiento.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIA5wBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:12:49.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microservicio2_Movimientos.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\Microservicio2_Movimientos.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\Microservicio2_Movimientos.csproj",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\Microservicio2_Movimientos.csproj",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\Microservicio2_Movimientos.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-15T22:30:58.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CuentaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\DTO2\\CuentaDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\DTO2\\CuentaDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\DTO2\\CuentaDTO.cs",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\DTO2\\CuentaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:26:57.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\Program.cs",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T23:18:36.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICuentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\ICuentaRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\ICuentaRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\ICuentaRepository.cs",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\ICuentaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:28:11.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CuentasController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ControllersM2\\CuentasController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\ControllersM2\\CuentasController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ControllersM2\\CuentasController.cs",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\ControllersM2\\CuentasController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAiwEoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:30:50.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MovimientoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\MovimientoRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\MovimientoRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\MovimientoRepository.cs",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\MovimientoRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAApwAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:29:21.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\Servicios\\ClienteService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\Servicios\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\Servicios\\ClienteService.cs",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\Servicios\\ClienteService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:12:45.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MovimientosController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ControllersM2\\MovimientosController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\ControllersM2\\MovimientosController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ControllersM2\\MovimientosController.cs",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\ControllersM2\\MovimientosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:31:22.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\DTO2\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\DTO2\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\DTO2\\ClienteDTO.cs",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\DTO2\\ClienteDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:08:59.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MovimientoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\DTO2\\MovimientoDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\DTO2\\MovimientoDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\DTO2\\MovimientoDTO.cs",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\DTO2\\MovimientoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:27:18.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\appsettings.json",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T23:18:49.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IMovimientoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\IMovimientoRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\IMovimientoRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\IMovimientoRepository.cs",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\RepositoriesM2\\IMovimientoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:28:56.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Cliente.cs",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Cliente.cs",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Cliente.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwA8AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:12:42.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Persona.cs",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Persona.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Persona.cs",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\ModelM2\\Persona.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:12:53.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\Models.cs",
+              "RelativeDocumentMoniker": "..\\..\\Microservicios\\Microservicio2_Movimientos\\Models.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicios\\Microservicio2_Movimientos\\Models.cs",
+              "RelativeToolTip": "..\\..\\Microservicios\\Microservicio2_Movimientos\\Models.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T22:43:42.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Models\\Persona.cs",
+              "RelativeToolTip": "Models\\Persona.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:52:12.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Movimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Models\\Movimiento.cs",
+              "RelativeDocumentMoniker": "Models\\Movimiento.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Models\\Movimiento.cs",
+              "RelativeToolTip": "Models\\Movimiento.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:52:23.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cuentum.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Models\\Cuentum.cs",
+              "RelativeDocumentMoniker": "Models\\Cuentum.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\Sofka\\Microservicio1\\Microservicio1_Clientes\\Models\\Cuentum.cs",
+              "RelativeToolTip": "Models\\Cuentum.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:53:44.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
